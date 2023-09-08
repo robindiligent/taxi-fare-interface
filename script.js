@@ -1,3 +1,5 @@
+mapboxgl.accessToken = 'pk.eyJ1Ijoicm9iaW5kaWxpZ2VudCIsImEiOiJjbG1hZW92NmcwZzRsM2dsNXdsM3g2NHA0In0.7zTVNejeX8k8V8Gia3zqyA';
+
 const taxiFareApiUrl = 'https://taxifare.lewagon.ai/predict';
 
 let taxiFareApiUrl = 'http://localhost:8001/predict'; // replace with your API endpoint
